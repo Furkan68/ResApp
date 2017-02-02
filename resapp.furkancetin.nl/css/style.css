@@ -1,0 +1,38 @@
+body {
+    padding-top: 50px;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.starter-template {
+    padding: 40px 15px;
+}
+
+.navbar-inverse {
+    background-color: #247925;
+    border-color: #247925;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #3fb55e;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #247925; !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff; !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #ddd; !important;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #e2e2e2;
+    background-color: #1b581c;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
